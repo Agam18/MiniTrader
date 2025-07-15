@@ -1,7 +1,7 @@
 # 🪙 MiniTrader
 
 > A lightweight, scalable multi-client trading system built in modern C++17  
-> featuring event-driven design (using kqueue on macOS / epoll on Linux), modular architecture, and real-time order book management.
+> featuring event-driven design (using kqueue on macOS), modular architecture, and real-time order book management.
 
 ---
 
